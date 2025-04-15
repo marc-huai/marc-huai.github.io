@@ -1,123 +1,89 @@
+# Portfolio
 ---
-layout: default
+
+## Data Engineering Projects
+
+
+
+### Rocket League Capstone
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/marc-huai/Springboard-Data-Engineering/tree/main/Rocket%20League%20Capstone%20Project)
+
+End-to-end data pipeline featuring ingestion, warehouse modeling, dbt transformations, and business insights from Rocket League player data using BigQuery.
+
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+### Airflow Mini Project
 
-[Link to another page](./another-page.html).
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/marc-huai/Springboard-Data-Engineering/tree/main/Airflow%20Mini%20Project)
 
-There should be whitespace between paragraphs.
+A mini project using Apache Airflow for orchestrating a data pipeline with scheduled DAGs. Includes ETL logic to process sample datasets and log task dependencies for monitoring.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+---
 
-# Header 1
+### Azure Mini Project: End-to-End ETL
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/marc-huai/Springboard-Data-Engineering/tree/main/Azure%20Mini%20Project%20End-to-End%20ETL)
 
-## Header 2
+An end-to-end pipeline built on Azure that ingests raw data and transforms it using storage accounts, functions, and notebooks. Focused on scalable cloud-based data processing.
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+---
 
-### Header 3
+### Azure Databricks Lab
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/marc-huai/Springboard-Data-Engineering/tree/main/Azure%20Mini%20Project_%20DataBricks%20Lab)
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+Hands-on exercises using Azure Databricks notebooks for ETL, transformation logic, and analytics on large datasets using PySpark.
 
-#### Header 4
+---
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+### Guided Capstone: Equity Market Data Analysis
 
-##### Header 5
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/marc-huai/Springboard-Data-Engineering/tree/main/Guided%20Capstone%20Equity%20Market%20Data%20Analysis)
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+Analyzed daily equity market data from multiple sources. Built an automated ETL pipeline using Spark and SQL for trend extraction, data cleaning, and reporting.
 
-###### Header 6
+---
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+### Kafka Mini Project
 
-### There's a horizontal rule below this.
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/marc-huai/Springboard-Data-Engineering/tree/main/Kafka%20Mini%20Project)
 
-* * *
+Real-time data ingestion pipeline using Apache Kafka for streaming JSON payloads, simulating IoT sensor data and integrating with consumers.
 
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+---
 
 
-### Definition lists can be used with HTML syntax.
+### SQL Tuning Mini Project
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/marc-huai/Springboard-Data-Engineering/tree/main/SQL%20Tuning%20Mini%20Project)
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
+Focused on optimizing SQL queries for large datasets. Improved performance through indexing, join strategy, and query refactoring.
 
-```
-The final element.
-```
+---
+
+### Spark Mini Project: Post-Sales Redesign
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/marc-huai/Springboard-Data-Engineering/tree/main/Spark%20Mini-Project%20Post-Sales%20Redesign)
+
+Redesigned a post-sales analytics system using Apache Spark to handle larger workloads with improved transformations and analytics logic.
+
+---
+
+### Spark Optimization Mini Project
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/marc-huai/Springboard-Data-Engineering/tree/main/Spark%20Optimization%20Mini%20Project)
+
+Explored Spark optimizations like partitioning, caching, and broadcast joins to increase performance on ETL workloads across distributed clusters.
+
+---
+
+## Tools & Technologies
+
+![Python](https://img.shields.io/badge/Python-3.8-blue)
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-2.0-lightgrey)
+![Azure](https://img.shields.io/badge/Azure-Cloud-blue)
+![Spark](https://img.shields.io/badge/Apache%20Spark-3.0-orange)
+![Kafka](https://img.shields.io/badge/Apache%20Kafka-2.7-red)
+
+<center>© 2025 Marc Huai. Powered by Jekyll and the Minimal Theme.</center>
